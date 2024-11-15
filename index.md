@@ -7,9 +7,9 @@ authors:
     Shin Kim 
 affiliations:
     Kyoto University, Kyoto
-paper: https://github.com/
+paper: https://shinkim148.github.io/FBCT-project-page/
 # video: https://github.com/
-code: https://github.com/topics/
+code: https://shinkim148.github.io/FBCT-project-page/
 data: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71442
 ---
 
