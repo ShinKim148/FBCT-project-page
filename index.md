@@ -6,7 +6,7 @@ title: Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Datase
 authors:
     Shin Kim 
 affiliations:
-    Kyoto University, Kyoto
+    
 paper: https://shinkim148.github.io/FBCT-project-page/
 # video: https://github.com/
 code: https://shinkim148.github.io/FBCT-project-page/
@@ -79,8 +79,8 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 ```
 @article{
 title={Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset},
-author={Shin Kim}
-year={2024}
+author={Shin Kim},
+year={2024},
 }
 ```
 
