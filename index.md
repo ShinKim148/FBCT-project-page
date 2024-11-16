@@ -54,7 +54,7 @@ Computed Tomography (CT) is a technology that reconstructs cross-sectional image
 -----------------------------------------------------------
 
 
-## Voxel extraction 
+## Voxel reconstruction
 Visualization of extracted voxel data using conventional volume rendering software.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
@@ -66,7 +66,7 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 -----------------------------------------------------------
 
 
-## Cuboid conversion 
+## Cuboid labeling
 3D cuboid labeling from multi-view bounding box labelings using visual hull constraints and extracted voxel data.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
