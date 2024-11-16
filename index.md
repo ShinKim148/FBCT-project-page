@@ -58,9 +58,9 @@ Computed Tomography (CT) is a technology that reconstructs cross-sectional image
 Visualization of extracted voxel data using conventional volume rendering software.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="{{ site.baseurl }}/static/image/voxel0.png" alt="001" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/voxel1.png" alt="001" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/voxel2.png" alt="001" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/voxel0.png" alt="img" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/voxel1.png" alt="img" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/voxel2.png" alt="img" style="width: 30%;">
 </div>
 
 -----------------------------------------------------------
@@ -70,12 +70,12 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 3D cuboid labeling from multi-view bounding box labelings using visual hull constraints and extracted voxel data.
 
 <div style="display: flex; justify-content: center; gap: 10px;">
-    <img src="{{ site.baseurl }}/static/image/bbox/0.png" alt="001" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/bbox/1.png" alt="001" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/bbox/2.png" alt="001" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/bbox/3.png" alt="001" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/bbox/0.png" alt="img" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/bbox/1.png" alt="img" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/bbox/2.png" alt="img" style="width: 30%;">
+    <!-- <img src="{{ site.baseurl }}/static/image/bbox/3.png" alt="001" style="width: 30%;">
     <img src="{{ site.baseurl }}/static/image/bbox/4.png" alt="001" style="width: 30%;">
-    <!-- <img src="/static/image/bbox/5.png" alt="001" style="width: 30%;">
+    <img src="/static/image/bbox/5.png" alt="001" style="width: 30%;">
     <img src="/static/image/bbox/6.png" alt="001" style="width: 30%;">
     <img src="/static/image/bbox/7.png" alt="001" style="width: 30%;">
     <img src="/static/image/bbox/8.png" alt="001" style="width: 30%;"> -->
