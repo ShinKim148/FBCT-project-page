@@ -41,7 +41,7 @@ Computed Tomography (CT) is a technology that reconstructs cross-sectional image
 <div style="display: flex; justify-content: center; gap: 1px;">
     <img src="{{ site.baseurl }}/static/image/017_.gif" alt="img" style="width: 30%;">
     <img src="{{ site.baseurl }}/static/image/002_r.gif" alt="img" style="width: 30%;">
-    <img src="{{ site.baseurl }}/static/image/012.gif" alt="img" style="width: 30%;">
+    <img src="{{ site.baseurl }}/static/image/012_.gif" alt="img" style="width: 30%;">
 </div>
 
 -----------------------------------------------------------
