@@ -47,7 +47,7 @@ Computed Tomography (CT) is a technology that reconstructs cross-sectional image
 -----------------------------------------------------------
 
 ## Method
-![Method]({{ site.baseurl }}/static/image/Method_.png)
+![Method]({{ site.baseurl }}/static/image/Method.png)
 
 <!-- *Figure 1: A representation of a Turing Machine. Source: [Wiki](https://en.wikipedia.org/wiki/Turing_machine).* -->
 
