@@ -94,10 +94,12 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 
 ## Citation
 ```
-@article{
-title={Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset},
-author={Shin Kim},
-year={2024},
+@article{shin2024FBCT,
+  author = {Shin Kim},
+  title = {Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset},
+  journal = {arXiv preprint},
+  year = {2024},
+  url = {https://shinkim148.github.io/FBCT-project-page/}
 }
 ```
 
@@ -106,3 +108,4 @@ year={2024},
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 12px;">Contact: <a href="mailto:indepth1024@gmail.com">indepth1024@gmail.com</a></p>
 </div>
+
