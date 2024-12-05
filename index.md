@@ -7,7 +7,7 @@ authors:
     Shin Kim 
 affiliations:
     Independent Researcher
-paper: https://shinkim148.github.io/FBCT-project-page/
+paper: https://arxiv.org/abs/2412.03036
 # video: https://github.com/
 code: https://shinkim148.github.io/FBCT-project-page/
 data: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&aihubDataSe=data&dataSetSn=71442
@@ -19,7 +19,7 @@ data: https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&ai
         <h2>Abstract</h2>
         <div class="content has-text-justified"> 
 
-Computed Tomography (CT) is a technology that reconstructs cross-sectional images using X-ray images taken from multiple directions. In CT, hundreds of X-ray images acquired as the X-ray source and detector rotate around a central axis, are used for precise reconstruction. In security baggage inspection, X-ray imaging is also widely used; however, unlike the rotating systems in medical CT, stationary X-ray systems are more common, and publicly available reconstructed data are limited. This makes it challenging to obtain large-scale 3D labeled data and voxel representations essential for training. To address these limitations, our study presents a calibration and reconstruction method using an unaligned sparse multi-view X-ray baggage dataset, which has extensive 2D labeling. Our approach integrates multi-spectral Neural Attenuation Field reconstruction with Linear pushbroom (LPB) camera model pose optimization, enhancing rendering consistency for novel views through color coding network. Our method aims to improve generalization within the security baggage inspection domain, where generalization is particularly challenging. 
+Computed Tomography (CT) is a technology that reconstructs cross-sectional images using X-ray images taken from multiple directions. In CT, hundreds of X-ray images acquired as the X-ray source and detector rotate around a central axis, are used for precise reconstruction. In security baggage inspection, X-ray imaging is also widely used; however, unlike the rotating systems in medical CT, stationary X-ray systems are more common, and publicly available reconstructed data are limited. This makes it challenging to obtain large-scale 3D labeled data and voxel representations essential for training. To address these limitations, our study presents a calibration and reconstruction method using an unaligned sparse multi-view X-ray baggage dataset, which has extensive 2D labeling. Our approach integrates multi-spectral neural attenuation field reconstruction with Linear pushbroom (LPB) camera model pose optimization, enhancing rendering consistency for novel views through color coding network. Our method aims to improve generalization within the security baggage inspection domain, where generalization is particularly challenging. 
 
         </div>
     </div>
@@ -97,9 +97,9 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 @article{shin2024FBCT,
   author = {Shin Kim},
   title = {Fan-Beam CT Reconstruction for Unaligned Sparse-View X-ray Baggage Dataset},
-  journal = {arXiv preprint},
+  journal = {arXiv preprint arXiv:2412.03036},
   year = {2024},
-  url = {https://shinkim148.github.io/FBCT-project-page/}
+  url = {https://arxiv.org/abs/2412.03036}
 }
 ```
 
@@ -108,4 +108,6 @@ Visualization of extracted voxel data using conventional volume rendering softwa
 <div style="text-align: center; margin-top: 20px;">
     <p style="font-size: 12px;">Contact: <a href="mailto:indepth1024@gmail.com">indepth1024@gmail.com</a></p>
 </div>
+
+
 
